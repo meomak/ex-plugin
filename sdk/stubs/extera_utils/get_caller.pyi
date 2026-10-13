@@ -1,0 +1,3 @@
+ELYX_PLUGIN_NAMESPACE: str
+
+def get_plugin_id(fn=None): ...

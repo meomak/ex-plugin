@@ -1,0 +1,10 @@
+{
+    "id": "ID",
+    "name": "NAME",
+    "description": "DESCRIPTION",
+    "author": "@autor",
+    "version": "0.0.0",
+    "icon": "linkStikerPack/index",
+    "app_version": ">=12.5.1",
+    "sdk_version": ">=1.4.4.3"
+}

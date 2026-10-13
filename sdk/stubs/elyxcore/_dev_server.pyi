@@ -1,0 +1,13 @@
+from _typeshed import Incomplete
+
+class ElyxDevServer:
+    original_method: Incomplete
+    hash_cache: Incomplete
+    @classmethod
+    def get_file_hash(cls, filepath): ...
+    @classmethod
+    def setup(cls) -> None: ...
+    @classmethod
+    def teardown(cls) -> None: ...
+    @staticmethod
+    def cmpss(rs): ...
